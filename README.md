@@ -127,11 +127,8 @@ This project showcases how **data-driven insights enhance financial decision-mak
 
 💬 **Credit risk is more than statistics** — it represents real human situations. Machine learning helps **convert these patterns into practical, trustworthy guidance**.
 
----
+----
 
-## 📊 Histogram Plot
-
-(Your histogram/graph image can go here)
 
 ### 📊 Histogram Plot
 
